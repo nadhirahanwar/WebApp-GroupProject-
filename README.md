@@ -115,8 +115,8 @@ The main objectives of the SPM Student Learning Platform are:
 ![ER Diagram](https://raw.githubusercontent.com/nadhirahanwar/WebApp-GroupProject-/main/ER%20DIAGRAM.png)
 
 
-
 ## 5.0 Sequence Diagram
+![SEQUENCE Diagram](https://raw.githubusercontent.com/nadhirahanwar/WebApp-GroupProject-/main/SEQ%20DIAGRAM.jpg)
 
 ## 6.0 REFERENCES
   
