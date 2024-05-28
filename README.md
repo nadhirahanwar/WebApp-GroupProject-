@@ -115,17 +115,14 @@ The main objectives of the SPM Student Learning Platform are:
 
 ## 5.0 Sequence Diagram
 
+## 6.0 REFERENCES
+  
+1. SPMFlix. (2024, May 3). SPMFlix - Malaysia’s Largest Free Online Learning Platform
+https://www.spmflix.com/ 
 
-## License
+2. GeeksforGeeks. (2024, February 27). How to design ER diagrams for project management Software. GeeksforGeeks. https://www.geeksforgeeks.org/how-to-design-er-diagrams-for-project-management-software 
 
-This project is licensed under the MIT License - see the LICENSE.md file for details.
+3. Drexel University's School of Education. (n.d.). Benefits of Online and Virtual Learning. Retrieved from https://drexel.edu/soe/resources/student-teaching/advice/benefits-of-online-and-virtual-learning/
 
-## Contributing
 
-Please read CONTRIBUTING.md for details on our code of conduct, and the process for submitting pull requests to us.
-
-## Acknowledgments
-
-- Thanks to the Laravel framework community for providing extensive documentation and support.
-- Special thanks to all the educators and students who provided valuable feedback during the development of this platform.
 
