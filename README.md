@@ -112,6 +112,8 @@ The main objectives of the SPM Student Learning Platform are:
 
 
 ## 4.0 ER Diagram
+![ER Diagram](ER DIAGRAM.png)
+
 
 ## 5.0 Sequence Diagram
 
